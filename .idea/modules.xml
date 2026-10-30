@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rupa_rempah_solo.iml" filepath="$PROJECT_DIR$/rupa_rempah_solo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/rupa_rempah_solo_android.iml" filepath="$PROJECT_DIR$/android/rupa_rempah_solo_android.iml" />
+    </modules>
+  </component>
+</project>
